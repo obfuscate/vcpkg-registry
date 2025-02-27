@@ -1,0 +1,6 @@
+{
+  "name": "ufbx",
+  "version-string": "v0.17.1",
+  "description": "Single source file FBX loader ",
+  "homepage": "https://github.com/ufbx/ufbx"
+}
